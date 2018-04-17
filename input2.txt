@@ -1,0 +1,8 @@
+const a=45,b=27;
+var x,y,g,m;
+begin
+	if odd 20
+	then write(a)
+	else
+	write(b)
+end.

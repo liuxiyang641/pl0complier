@@ -1,0 +1,18 @@
+var a;
+procedure   p;
+	var b;
+	procedure  q;
+		var c;
+		begin
+		      read(c);
+		      read(b)
+		end;
+	begin
+                      call q;
+	      read(a)
+	end;
+begin
+        call p;
+        write(a)
+end.
+

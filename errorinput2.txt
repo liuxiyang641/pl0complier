@@ -1,0 +1,8 @@
+var a;
+begin
+     if a>0 then   
+     begin
+	write(a)
+    end
+	a:=3
+end.
